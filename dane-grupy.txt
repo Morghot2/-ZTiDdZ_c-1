@@ -1,0 +1,2 @@
+Inne niż biznesowe: Imię i nazwisko Dane biometryczne np. odcisk palca Numer karty debetowej, zawód, historia choroby
+Wewnętrzne: ID Pracownika, Nazwa stanowiska 
